@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-<br/>
-
 <a href="https://discord.gg/rishiv3">
   <img align="left" alt="Rishi's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
@@ -22,7 +20,7 @@
   <img align="left" alt="Rishi's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 
-</br>
+</br><br/>
 
 
 ![Rishi's github stats](https://github-readme-stats.vercel.app/api?username=rishiv3)
