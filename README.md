@@ -21,16 +21,22 @@
 <a href="https://leetcode.com/rishiv3/">
   <img align="left" alt="Rishi's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
-<a href="https://www.codechef.com/users/Rishinaidu">
-  <img align="left" alt="Rishi's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-</a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=rishiv3)
+</br>
 
 
+![Rishi's github stats](https://github-readme-stats.vercel.app/api?username=rishiv3)
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=rishiv3)
+<br />
 
+![Rishi's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rishiv3&layout=compact)
+
+<br />
+
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/rishiv3/)*
+
+
+<br />
 
 
 **Languages and Tools:**  
